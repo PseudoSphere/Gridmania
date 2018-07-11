@@ -7,8 +7,8 @@ Start with a possible 9 games:
 
 Taking one action at a time, each player bans a total of 2 games each then picks the order of the remaining games to be played in a best of 5.
 
--
-**Example**
+---
+**Example**  
 Bans:
 P1 Checkers,
 P2 Chess,
@@ -24,5 +24,5 @@ P1: Chess
 
 This would result in a Bo5: Go -> Checkers -> Go -> Checkers -> Chess
 
--
+---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

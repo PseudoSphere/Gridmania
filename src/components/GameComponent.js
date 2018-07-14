@@ -4,9 +4,9 @@ class GameComponent extends Component {
     render() {
         return(
             <div className="GameComponent">
-                Game Component Visible!!!
+                Game Component
             </div>
-        );
+        ); 
     }
 }
 

@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import GameComponent from './GameComponent';
 
-class InitialMaps extends Component {
+class Picks extends Component {
     render() {
         return (
-            <div className="InitialMaps">
-                Initial Maps Component
+            <div className="Picks">
+                Picks Component
                 <GameComponent />
             </div>
-        );
+        )
     }
 }
 
-export default InitialMaps;
+export default Picks;

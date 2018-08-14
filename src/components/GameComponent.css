@@ -1,0 +1,10 @@
+.GameComponent {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+
+    cursor: pointer;
+
+    padding: 5px;
+    margin: 2px;
+}
